@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - uncertainties
